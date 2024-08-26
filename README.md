@@ -1,5 +1,7 @@
 # ECG-Multi-Label-Classification-Using-Multi-Model
-In this project, we will perform 12-lead ECG Multi-label Classification. Specifically, we will design a multi-model utilizing the characteristics of diagnoses from the Shaoxing and Ningbo databases.
+
+[[paper](https://paper.cricit.kr/user/listview/ieie2018/cart_rdoc.asp?URL=files/filename%3Fnum%3D431313%26db%3DRD_R&dn=431313&db=RD_R&usernum=0&seid=)]
+ In this project, we will perform 12-lead ECG Multi-label Classification. Specifically, we will design a multi-model utilizing the characteristics of diagnoses from the Shaoxing and Ningbo databases.
 
 ## Update
 * **2024.05.08**
@@ -35,4 +37,3 @@ https://physionet.org/content/ecg-arrhythmia/1.0.0/
 
 ## Contact  
 E-mail: jbcha7@yonsei.ac.kr
-
